@@ -37,7 +37,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"workplace"
+                 "value":"https:\/\/meet.jit.si\/masterergo2021"
                 }, 
                 {
                  "name":"jitsiTrigger",
@@ -60,7 +60,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"workplace"
+                 "value":"https:\/\/meet.jit.si\/masterergo2021"
                 }, 
                 {
                  "name":"jitsiTrigger",
